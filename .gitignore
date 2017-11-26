@@ -2,6 +2,9 @@
 .idea
 *.iml
 
+#emacs
+*~
+
 # Compiled class file
 *.class
 
